@@ -62,8 +62,6 @@ It is important to remember that this process is not linear; it is a cycle. If t
 
 **Data science** **1**
 
-This table demonstrates the way that Data science 1 can be taught in the context of bushfire prevention, detection and management. Teachers should be aware of the sensitive nature of the topic of bushfires. Friends, family and property of students may have been affected by bushfires. Teachers should plan for **10 weeks** or **one term** of school time to teach the focus area Data science 1.
-
 The Data science 1 focus area can be taught alongside other focus areas, and aligned to students' interests, local contexts or the school environment.
 
 +–––––––––––––––––––––+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––-+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––+
@@ -133,8 +131,6 @@ The Data science 1 focus area can be taught alongside other focus areas, and ali
 ## 
 
 ## Data science 2
-
-This table demonstrates the way the Data science 2 focus area can be taught alongside the Waves and motion focus area. Teachers should plan for **20 weeks** or **2 terms** of school time to teach both focus areas concurrently.
 
 The Data science 2 focus area can be taught alongside other focus areas, and aligned to students' interests, local contexts and/or the school environment.
 

@@ -145,12 +145,14 @@ The aim of the *Science 7–10 Syllabus* is to:
 
 -   develop students' curiosity about, and interest in, science and the natural world
 
+```{=html}
 <!– –>
-
+```
 -   increase students' knowledge and understanding of the nature and practice of science, and the Working scientifically processes
 
+```{=html}
 <!– –>
-
+```
 -   encourage students to generate and analyse data, evaluate results, and make ethical, evidence-based decisions, as informed, reflective and scientifically literate citizens.
 
 ## Table of outcomes
