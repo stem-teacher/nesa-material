@@ -76,9 +76,9 @@ D2016/58518
 
 [Content [18](#content)](#content)
 
-[Investigating Science Year 11 Course Content [31](#investigating-science-year-11-course-content)](#investigating-science-year-11-course-content)
+[Investigating Science Year 11 Course Content [31](#_Toc466128489)](#_Toc466128489)
 
-[Investigating Science Year 12 Course [45](#investigating-science-year-12-course-content)](#investigating-science-year-12-course-content)
+[Investigating Science Year 12 Course [45](#_Toc466128490)](#_Toc466128490)
 
 [Glossary [60](#glossary)](#glossary)
 
@@ -1009,8 +1009,9 @@ Secondary-sourced investigations include:
 ||
 |-   carry out a practical investigation to record both quantitative and qualitative data from observations, for example:|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   burning a candle floating in a closed container|
 ||
 |-   the behaviour of slaters in a dry/wet or light/dark environment|
@@ -1019,26 +1020,30 @@ Secondary-sourced investigations include:
 ||
 |-   strata in rock cuttings|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   discuss and evaluate the characteristics of observations made compared to inferences drawn in respect of the practical investigation ![Literacy icon](media/image10.png "Literacy icon"){width="0.14583333333333334in" height="0.11458333333333333in"}|
 ||
 |-   research how observation has instigated experimentation to investigate cause and effect in historical examples, including but not limited to: ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![ Information and communication technology capability icon](media/image8.png " Information and communication technology capability icon"){width="0.14583333333333334in" height="0.11458333333333333in"}|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   Archimedes observing the displacement of water|
 ||
 |-   Alexander Fleming's observations of the effect of mould on bacteria|
 ||
 |-   Galileo's observations of the movement of Jupiter's moons|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   assess ways in which Aboriginal and Torres Strait Islander Peoples use observation to develop an understanding of Country and Place in order to create innovative ways of managing the natural environment, including but not limited to: ![Aboriginal and Torres Strait Islander histories and cultures icon](media/image3.png "Aboriginal and Torres Strait Islander histories and cultures icon"){width="0.125in" height="0.11458333333333333in"} ![Sustainability icon](media/image20.png "Sustainability icon"){width="0.11458333333333333in" height="0.11458333333333333in"} ![Ethical understanding icon](media/image7.png "Ethical understanding icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![Intercultural understanding icon](media/image9.png "Intercultural understanding icon"){width="0.11458333333333333in" height="0.11458333333333333in"} ![Difference and diversity icon](media/image14.png "Difference and diversity icon"){width="7.291666666666667e-2in" height="0.11458333333333333in"}|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   firestick farming|
 ||
 |-   knowledge about plants for medicinal purposes|
@@ -1051,8 +1056,9 @@ Secondary-sourced investigations include:
 ||
 |-   carry out a practical activity to qualitatively and quantitatively describe, for example:|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   microscopic images of a variety of cells|
 ||
 |-   geological strata in rock faces and road cuttings|
@@ -1061,12 +1067,14 @@ Secondary-sourced investigations include:
 ||
 |-   characteristics of acids and bases|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   analyse the quantitative data from the following information sources, including but not limited to: ![ Information and communication technology capability icon](media/image8.png " Information and communication technology capability icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Numeracy icon](media/image11.png "Numeracy icon"){width="8.333333333333333e-2in" height="0.11458333333333333in"} ![Work and enterprise](media/image15.png "Work and enterprise"){width="0.11458333333333333in" height="0.11458333333333333in"}|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   digital images and hand-drawn diagrams of cells|
 ||
 |-   geological succession obtained from rock strata|
@@ -1075,8 +1083,9 @@ Secondary-sourced investigations include:
 ||
 |-   data showing the pH of acids and bases|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   evaluate the differences between qualitative and quantitative observations and data and where these are used ![ Information and communication technology capability icon](media/image8.png " Information and communication technology capability icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Numeracy icon](media/image11.png "Numeracy icon"){width="8.333333333333333e-2in" height="0.11458333333333333in"} ![Work and enterprise](media/image15.png "Work and enterprise"){width="0.11458333333333333in" height="0.11458333333333333in"}|
 ||
 |#### Observations as Evidence|
@@ -1087,8 +1096,9 @@ Secondary-sourced investigations include:
 ||
 |-   use data gathered to plan a practical investigation to: ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![Literacy icon](media/image10.png "Literacy icon"){width="0.14583333333333334in" height="0.11458333333333333in"}|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   pose further questions that will be investigated|
 ||
 |-   discuss the role of variables|
@@ -1099,12 +1109,14 @@ Secondary-sourced investigations include:
 ||
 |-   describe at least three variables that should be controlled in order to increase the validity of the investigation|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   develop a method to collect primary data for a practical investigation by: ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![Literacy icon](media/image10.png "Literacy icon"){width="0.14583333333333334in" height="0.11458333333333333in"}|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   describing how to change the independent variable|
 ||
 |-   determining the characteristics of the measurements that will form the dependent variable|
@@ -1115,12 +1127,14 @@ Secondary-sourced investigations include:
 ||
 |-   describing how risks can be minimised|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   evaluate how observation is limited by the observational tools available, including but not limited to:![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![ Information and communication technology capability icon](media/image8.png " Information and communication technology capability icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Numeracy icon](media/image11.png "Numeracy icon"){width="8.333333333333333e-2in" height="0.11458333333333333in"}|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   observing the Universe|
 ||
 |-   digital versus analogue technologies|
@@ -1135,8 +1149,9 @@ Secondary-sourced investigations include:
 ||
 |-   apply conventions for collecting and recording observations to qualitatively and quantitatively analyse the primary data, including but not limited to: ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![ Information and communication technology capability icon](media/image8.png " Information and communication technology capability icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Literacy icon](media/image10.png "Literacy icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Work and enterprise](media/image15.png "Work and enterprise"){width="0.11458333333333333in" height="0.11458333333333333in"}|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   tabulation|
 ||
 |-   graphing|
@@ -1145,8 +1160,9 @@ Secondary-sourced investigations include:
 ||
 |-   digital representations|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   compare the usefulness of observations recorded in the initial practical activity with the primary data gathered in this planned practical investigation|
 ||
 |#### Conclusions Promote Further Observations|
@@ -1404,14 +1420,16 @@ Secondary-sourced investigations include:
 ||
 |-   climate models|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   outline how models have been used to illustrate, simplify and represent scientific concepts and processes ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![Literacy icon](media/image10.png "Literacy icon"){width="0.14583333333333334in" height="0.11458333333333333in"}|
 ||
 |-   explain how scientific models are used to make predictions that are difficult to analyse in the real world due to time frames, size and cost ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![ Information and communication technology capability icon](media/image8.png " Information and communication technology capability icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Literacy icon](media/image10.png "Literacy icon"){width="0.14583333333333334in" height="0.11458333333333333in"}|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   assess the effectiveness of models at facilitating the understanding of scientific processes, structures and mathematical relationships through the use of: ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![ Information and communication technology capability icon](media/image8.png " Information and communication technology capability icon"){width="0.14583333333333334in" height="0.11458333333333333in"}|
 ||
 |-   diagrams|
@@ -1512,8 +1530,9 @@ Secondary-sourced investigations include:
 ||
 |-   oxygen theory of combustion|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   gather secondary-sourced data to investigate how aspects of a theory can be disproved through the collection of evidence, including: ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![ Information and communication technology capability icon](media/image8.png " Information and communication technology capability icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Literacy icon](media/image10.png "Literacy icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Numeracy icon](media/image11.png "Numeracy icon"){width="8.333333333333333e-2in" height="0.11458333333333333in"}|
 ||
 |-   Geocentric Theory (of the solar system)|
@@ -1540,8 +1559,9 @@ Secondary-sourced investigations include:
 ||
 |-   Mendel's Law of Dominance|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   design and collect primary data to show that results can be predicted by laws, including but not limited to: ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.13541666666666666in" height="0.11458333333333333in"}|
 ||
 |-   Ohm's Law|
@@ -1564,8 +1584,9 @@ Secondary-sourced investigations include:
 ||
 |-   Earth and Environmental Science|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   demonstrate, using evidence and examples, how diverse phenomena have been unified into specific theories, for example: ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![ Information and communication technology capability icon](media/image8.png " Information and communication technology capability icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Literacy icon](media/image10.png "Literacy icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Numeracy icon](media/image11.png "Numeracy icon"){width="8.333333333333333e-2in" height="0.11458333333333333in"}|
 ||
 |-   atomic theory|
@@ -1576,8 +1597,9 @@ Secondary-sourced investigations include:
 ||
 |-   plate tectonic theory|
 ||
+|```{=html}|
 |<!– –>|
-||
+|```|
 |-   gather secondary-sourced data to investigate how scientific investigations of nuclear reactions and decay changed the way in which the law of conservation of mass and law of conservation of energy are interpreted ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![ Information and communication technology capability icon](media/image8.png " Information and communication technology capability icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Literacy icon](media/image10.png "Literacy icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Numeracy icon](media/image11.png "Numeracy icon"){width="8.333333333333333e-2in" height="0.11458333333333333in"}|
 ||
 |# Investigating Science Year 12 Course Content|
@@ -2022,8 +2044,9 @@ Students:
 
     -   accuracy of the procedure, including random and systematic error
 
+```{=html}
 <!– –>
-
+```
 -   using examples, evaluate the impact that sample selection and sample sizes can have on the results of an investigation ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.14027777777777778in" height="0.10972222222222222in"} ![Numeracy icon](media/image11.png "Numeracy icon"){width="8.680555555555555e-2in" height="0.10972222222222222in"}
 
 -   compare emotive advertising with evidence-based claims, including but not limited to: ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![Ethical understanding icon](media/image7.png "Ethical understanding icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![ Information and communication technology capability icon](media/image8.png " Information and communication technology capability icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Numeracy icon](media/image11.png "Numeracy icon"){width="8.333333333333333e-2in" height="0.11458333333333333in"}
@@ -2056,8 +2079,9 @@ Students:
 
 -   evaluate how evidence of a correlation can be misinterpreted as causation, including but not limited to: ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.14027777777777778in" height="0.10972222222222222in"} ![ Information and communication technology capability icon](media/image8.png " Information and communication technology capability icon"){width="0.1486111111111111in" height="0.10972222222222222in"}
 
+```{=html}
 <!– –>
-
+```
 -   the Hawthorne effect
 
 -   1991 study that linked hormone replacement therapy to coronary heart disease
@@ -2191,8 +2215,9 @@ Students:
 
     -   protection of Indigenous cultural and intellectual property
 
+```{=html}
 <!– –>
-
+```
 -   investigate and assess ethical issues surrounding current scientific research in, for example: ![Aboriginal and Torres Strait Islander histories and cultures icon](media/image3.png "Aboriginal and Torres Strait Islander histories and cultures icon"){width="0.125in" height="0.11458333333333333in"} ![Sustainability icon](media/image20.png "Sustainability icon"){width="0.11458333333333333in" height="0.11458333333333333in"} ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![Ethical understanding icon](media/image7.png "Ethical understanding icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![ Information and communication technology capability icon](media/image8.png " Information and communication technology capability icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Intercultural understanding icon](media/image9.png "Intercultural understanding icon"){width="0.11458333333333333in" height="0.11458333333333333in"} ![Difference and diversity icon](media/image14.png "Difference and diversity icon"){width="7.291666666666667e-2in" height="0.11458333333333333in"}
 
     -   use of radiation
@@ -2217,8 +2242,9 @@ Students:
 
     -   transplantation of organs
 
+```{=html}
 <!– –>
-
+```
 -   evaluate the effectiveness of international regulation in scientific research and practice
 
 #### Influence of Economic, Social and Political Forces on Scientific Research
@@ -2241,12 +2267,14 @@ Students:
 
     -   robotics and the use of drones
 
+```{=html}
 <!– –>
-
+```
 -   evaluate the impacts of scientific research, devices and applications on world health and human wellbeing, including but not limited to: ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.14027777777777778in" height="0.10972222222222222in"} ![Ethical understanding icon](media/image7.png "Ethical understanding icon"){width="0.14027777777777778in" height="0.10972222222222222in"}
 
+```{=html}
 <!– –>
-
+```
 -   medical surgical devices
 
 -   surgical procedures
@@ -2255,12 +2283,14 @@ Students:
 
 -   vaccination programs for the eradication of disease
 
+```{=html}
 <!– –>
-
+```
 -   using examples, analyse the impacts that governments and large corporations have on scientific research, including but not limited to: ![Sustainability icon](media/image20.png "Sustainability icon"){width="0.11458333333333333in" height="0.11458333333333333in"} ![Critical and creative thinking icon](media/image6.png "Critical and creative thinking icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![Ethical understanding icon](media/image7.png "Ethical understanding icon"){width="0.13541666666666666in" height="0.11458333333333333in"} ![ Information and communication technology capability icon](media/image8.png " Information and communication technology capability icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Intercultural understanding icon](media/image9.png "Intercultural understanding icon"){width="0.11458333333333333in" height="0.11458333333333333in"}
 
+```{=html}
 <!– –>
-
+```
 -   corporations and market opportunities
 
 -   university research project budgets
@@ -2269,12 +2299,14 @@ Students:
 
 -   benefit-sharing in research using Indigenous intellectual and cultural property
 
+```{=html}
 <!– –>
-
+```
 -   evaluate how personal, cultural and socioeconomic perspectives can influence the direction of scientific research, for example: ![Aboriginal and Torres Strait Islander histories and cultures icon](media/image3.png "Aboriginal and Torres Strait Islander histories and cultures icon"){width="0.125in" height="0.11458333333333333in"} ![Sustainability icon](media/image20.png "Sustainability icon"){width="0.11458333333333333in" height="0.11458333333333333in"} ![ Information and communication technology capability icon](media/image8.png " Information and communication technology capability icon"){width="0.14583333333333334in" height="0.11458333333333333in"} ![Intercultural understanding icon](media/image9.png "Intercultural understanding icon"){width="0.11458333333333333in" height="0.11458333333333333in"}
 
+```{=html}
 <!– –>
-
+```
 -   perceptions about diet in a multicultural society
 
 -   investigating traditional medical treatments

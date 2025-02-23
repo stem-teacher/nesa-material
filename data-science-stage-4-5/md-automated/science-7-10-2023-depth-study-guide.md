@@ -85,8 +85,6 @@ The samples show practical depth studies aligned to a focus area with aligned Wo
 
 ## Stage 4 depth study: Health of a local habitat
 
-This depth study integrates content and concepts from the Focus Area – Cells and Classification, providing opportunities to explore the health of a local habitat. It also focuses on the Working Scientifically processes of observation, planning investigations, and communication to deepen students\' understanding of scientific investigations.
-
 ## 
 
 +–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––-+
@@ -169,8 +167,6 @@ This depth study integrates content and concepts from the Focus Area – Cells a
 []{#_Toc181277473 .anchor}
 
 ## Stage 5 depth study: Comparing efficiency of fuels
-
-This depth study draws on content and concepts from the Focus Area – Energy, offering opportunities to investigate the role of alternative fuel sources in addressing energy needs. It focuses on the Working Scientifically processes of planning investigations, problem-solving, and effective communication to evaluate the efficiency of these fuels and their potential impact on sustainable energy solutions.
 
 ## 
 

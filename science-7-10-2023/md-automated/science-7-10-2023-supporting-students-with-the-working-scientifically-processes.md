@@ -40,6 +40,8 @@ Physical prompts include full physical assistance (prompting using hand-under-ha
 
 The prompt hierarchy below shows ways that prompts can be used when teaching content related to Working scientifically in order of the least-to-most level of support. The goal is to increase learning by choosing the least intrusive prompt necessary and by fading out the prompt as soon as possible. Not every prompt is appropriate for the type of response required. You may select or use prompts in combination to support student engagement and participation.
 
+> ![Arrows indicate least-to-most level of prompt support; Gestural, Verbal, Visual, Model, Physical.](media/image1.png){width="6.268055555555556in" height="1.0458333333333334in"}
+
 Figure 1: Least-to-most level of support prompt hierarchy
 
 ## Illustrations of practice using the prompt hierarchy
@@ -307,23 +309,23 @@ Suggested steps include:
 ### Stage 4 Life Skills focus areas
 
   –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––-
-  **Working scientifically**         **Observing the Universe**   **Forces**   **Cells and classification**   **Solutions and mixtures**   **Living systems**   **Properties of matter**   **Change**   **Data science**
+  **Working scientifically**        **Observing the Universe**   **Forces**   **Cells and classification**   **Solutions and mixtures**   **Living systems**   **Properties of matter**   **Change**   **Data science**
   ––––––––––––––––- –––––––––––––– –––––– ––––––––––––––– –––––––––––––– –––––––––– ––––––––––––– –––––– –––––––––
-  Observing                                      X                    X                     X                                                                                                  X       
+  Observing                         X                            X            X                                                                                                           X            
 
-  Questioning and predicting                                          X                                                                            X                                                   
+  Questioning and predicting                                     X                                                                        X                                                            
 
-  Planning investigations                                                                                                 X                                                                    X       
+  Planning investigations                                                                                    X                                                                            X            
 
-  Conducting investigations                      X                                                                        X                                                                    X       
+  Conducting investigations         X                                                                        X                                                                            X            
 
-  Processing data and information                X                                                                                                                         X                                   X
+  Processing data and information   X                                                                                                                          X                                       X
 
-  Analysing data and information                                                                                                                   X                       X                                   X
+  Analysing data and information                                                                                                          X                    X                                       X
 
-  Problem-solving                                                                                                         X                                                                            
+  Problem-solving                                                                                            X                                                                                         
 
-  Communicating                                                                             X                                                      X                                                           X
+  Communicating                                                               X                                                           X                                                            X
   –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––-
 
 #### 
@@ -331,21 +333,21 @@ Suggested steps include:
 ### Stage 5 Life Skills focus areas
 
   ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––-
-  **Working scientifically**         **Energy**   **Disease**       **Materials**   **Environmental sustainability**              **Personal genetics and evolutionary change**   **Reactions**   **Waves and motion**
+  **Working scientifically**        **Energy**   **Disease**       **Materials**   **Environmental sustainability**              **Personal genetics and evolutionary change**   **Reactions**   **Waves and motion**
   ––––––––––––––––- –––––– ––––––- –- –––––––- ––––––––––––––––– ––––– –––––––––––––––––––––––- –––––––- –––––––––––
-  Observing                              X                                                                                                              X                                        
+  Observing                         X                                                                                            X                                                               
 
-  Questioning and predicting                                                                                              X                                                                      
+  Questioning and predicting                                                                                          X                                                                          
 
-  Planning investigations                                       X                                                                                                                       X        
+  Planning investigations                                      X                                                                                                                 X               
 
-  Conducting investigations              X                                                                                                                                                                 X
+  Conducting investigations         X                                                                                                                                                            X
 
-  Processing data and information        X                                                                                                              X                                                  X
+  Processing data and information   X                                                                                            X                                                               X
 
-  Analysing data and information                       X                                                                  X                                                                      
+  Analysing data and information                 X                                                                    X                                                                          
 
-  Problem-solving                                               X                                                         X                                                             X        
+  Problem-solving                                              X                                                      X                                                          X               
 
-  Communicating                                        X                                                                                                X                                        
+  Communicating                                  X                                                                               X                                                               
   ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––-
